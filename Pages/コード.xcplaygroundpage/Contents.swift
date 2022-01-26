@@ -66,7 +66,7 @@ class Elevator: UIViewController {
     }
     
     func movedHuman(pushButton:Int) {
-//        guard pushButton == human else {
+//        guard pushButton != human else {
 //            print("指定のフロアーに到着しています")
 //                return
 //        }
